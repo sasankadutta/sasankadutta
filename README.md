@@ -2,7 +2,8 @@
 <h3 align="center">I'm a full-stack developer specializing in the MERN stack, with a strong foundation in machine learning and AI. My proficiency in C++ has been instrumental in developing performance-critical applications. I enjoy building intelligent, scalable web solutions that seamlessly integrate modern AI capabilities.</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Algoflow<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with <br>🌱 I’m currently learning MERN stack<br>💬 Ask me about tech, stars and mythology<br>
+<!---🔭 I’m currently working on Algoflow<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with <br> -->
+🌱 I’m currently learning MERN stack<br>💬 Ask me about tech, stars and mythology<br>
 
 
 ## 🌐 Socials:
@@ -24,4 +25,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sasankadutta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( ?://gprm.itsvg.in ) -->
